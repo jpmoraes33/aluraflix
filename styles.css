@@ -204,3 +204,10 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+font-family: "Chakra Petch", sans-serif;
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+}
